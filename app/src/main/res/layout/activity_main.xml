@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <ScrollView
+        android:id="@+id/scrollView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:clipToPadding="false"
+        android:scrollbars="none">
+
+    <ImageView
+        android:id="@+id/image_1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:adjustViewBounds="true"
+        android:src="@drawable/display"/>
+
+    </ScrollView>
+
+    <eightbitlab.com.blurview.BlurView
+        android:id="@+id/blurLayout"
+        android:layout_width="match_parent"
+        android:layout_height="56dp"
+        app:blurOverlayColor="@color/colorOverlay"
+        android:layout_alignParentBottom="true"/>
+
+    <com.google.android.material.bottomnavigation.BottomNavigationView
+        android:id="@+id/bottomNavigationView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        app:menu="@menu/bottom_nav_menu"
+        android:background="@drawable/tranf"
+        app:itemIconTint="@drawable/item_selector"
+        app:itemTextColor="@color/iblueno"
+        app:itemIconSize="24dp"/>
+
+</RelativeLayout>
