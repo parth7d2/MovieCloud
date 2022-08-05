@@ -5,6 +5,7 @@
       <map>
         <entry key="../../../../../layout/custom_preview.xml" value="0.14238609112709832" />
         <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.271" />
+        <entry key="app/src/main/res/drawable/default_indicator.xml" value="0.104" />
         <entry key="app/src/main/res/drawable/ic_house_fill.xml" value="0.226" />
         <entry key="app/src/main/res/drawable/ic_house_fill__1_.xml" value="0.226" />
         <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.271" />
@@ -13,13 +14,20 @@
         <entry key="app/src/main/res/drawable/ic_round_home_24.xml" value="0.271" />
         <entry key="app/src/main/res/drawable/ic_round_person_24.xml" value="0.226" />
         <entry key="app/src/main/res/drawable/ic_round_search_24.xml" value="0.271" />
+        <entry key="app/src/main/res/drawable/indicator_selector.xml" value="0.375" />
         <entry key="app/src/main/res/drawable/item_selector.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/selected_indicator.xml" value="0.104" />
         <entry key="app/src/main/res/drawable/tranf.xml" value="0.2375" />
         <entry key="app/src/main/res/layout/activity_home_fragment.xml" value="0.33697916666666666" />
-        <entry key="app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_profile_fragment.xml" value="0.33697916666666666" />
         <entry key="app/src/main/res/layout/activity_search_fragment.xml" value="0.33697916666666666" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.20005045408678102" />
+        <entry key="app/src/main/res/layout/fragment_in_home.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_kids.xml" value="0.18981481481481483" />
+        <entry key="app/src/main/res/layout/fragment_movies.xml" value="0.18981481481481483" />
         <entry key="app/src/main/res/layout/fragment_search.xml" value="0.39375" />
+        <entry key="app/src/main/res/layout/fragment_tv_show.xml" value="0.18981481481481483" />
         <entry key="app/src/main/res/menu/bottom_nav_menu.xml" value="0.375" />
       </map>
     </option>
