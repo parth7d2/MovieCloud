@@ -19,11 +19,11 @@
         <entry key="app/src/main/res/drawable/selected_indicator.xml" value="0.104" />
         <entry key="app/src/main/res/drawable/tranf.xml" value="0.2375" />
         <entry key="app/src/main/res/layout/activity_home_fragment.xml" value="0.33697916666666666" />
-        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.375" />
         <entry key="app/src/main/res/layout/activity_profile_fragment.xml" value="0.33697916666666666" />
         <entry key="app/src/main/res/layout/activity_search_fragment.xml" value="0.33697916666666666" />
         <entry key="app/src/main/res/layout/fragment_home.xml" value="0.20005045408678102" />
-        <entry key="app/src/main/res/layout/fragment_in_home.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_in_home.xml" value="0.335" />
         <entry key="app/src/main/res/layout/fragment_kids.xml" value="0.18981481481481483" />
         <entry key="app/src/main/res/layout/fragment_movies.xml" value="0.18981481481481483" />
         <entry key="app/src/main/res/layout/fragment_search.xml" value="0.39375" />
